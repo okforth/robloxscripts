@@ -1,0 +1,5 @@
+<html>
+<body>
+      <h1><em>these will be the general scripts that work for a lot of games</em></h1>
+      <p>owl hub:loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();</p>
+      <p>
